@@ -1,27 +1,51 @@
 #page {
     height: 500px;
     border: 5px double black;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
 }
-.title {
-    background-color: silver;
+.box {
+    padding-top: 25px;
+.title2 {
+    font-size: 300%;
+    color: black;
+    
+}   
+}
+ .title2, .title1 {
+    color: grey;
     width: 275px;
     text-transform: uppercase;
     text-align: center;
     margin: 0px;
     margin: auto;
+    
 }
 ul {
-    width: 800px;
+    background-color: plum;
+    width: 600px;
     margin: 50px auto 10px auto;
     text-align: center;
     border-style: solid;
-    border-width: 10px 0px 10px 0px; 
+    border-width: 4px 0px 2px 0px; 
+    padding: 15px;
+    font-weight: 300;
 
 }
 li {
     display: inline-block;
     margin-right:  30px;
     text-align: center;
+    
 
+}
+img {
+    display: block;
+    width: 600px;
+    margin: auto;
+}
+p {
+    background-color: orange;
+    margin: auto;
+    text-align: center;
+    width: 600px;
 }
