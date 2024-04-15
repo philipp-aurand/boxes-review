@@ -12,8 +12,12 @@
     margin: auto;
 }
 ul {
+    width: 800px;
+    margin: 50px auto 10px auto;
     text-align: center;
-    border: solid;
+    border-style: solid;
+    border-width: 10px 0px 10px 0px; 
+
 }
 li {
     display: inline-block;
