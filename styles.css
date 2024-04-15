@@ -1,0 +1,16 @@
+#page {
+    height: 500px;
+    border: 5px double black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title {
+    background-color: silver;
+    width: 275px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0px;
+    margin: auto;
+}
+ul {
+    background-color: grey;
+}
